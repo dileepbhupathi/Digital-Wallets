@@ -1,0 +1,29 @@
+.Digital-wallet-add-container{
+    width: 350px;
+    height: 39vh;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
+    border: 2px dashed blue;
+    text-align: center;
+}
+
+.add-icon-container{
+    font-size: 3.5em;
+    color: rgb(196, 195, 195);
+    background-color: rgb(231, 228, 228);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 11vh;
+    width: 25%;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+.add-text{
+    color: gray;
+    font-size: 1.5em;
+    margin-top: 10%;
+}

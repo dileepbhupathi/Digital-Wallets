@@ -1,0 +1,48 @@
+.add-digital-wallet-form-container {
+    padding-left: 2%;
+}
+
+.add-digital-wallet-form {
+    display: flex;
+    margin-top: 3%;
+    padding: 2% 5% 2% 2%;
+}
+
+.add-digital-wallet-image-container{
+    width: 30%;
+    padding-left: 5%;
+}
+
+.add-digital-wallet-form-inputs-container{
+    // display: flex;
+    // flex-wrap: wrap;
+    width: 70%;
+    padding: 0% 20% 0% 10%;
+}
+
+.crypto-value-form-item{
+    width: 48%;
+    margin-right: 2%;
+}
+
+.crypto-value-input{
+    width: 100%;
+}
+
+.in-percentage-form-item{
+    width: 100%;
+}
+
+.crypto-currency-form-item-container-container{
+    display: flex;
+}
+
+.digital-wallet-save-button-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2%;
+}
+
+.crypto-currency-form-item{
+    width: 50%;
+}

@@ -1,0 +1,89 @@
+.digital-wallets-list-container{
+    display: flex;
+    overflow-x: scroll;
+    justify-content: flex-start;
+    align-items: center;
+    height: 80vh;
+}
+
+.digital-wallet-list-item{
+    margin-right: 2%;
+}
+
+.ant-card .ant-card-body {
+    padding: 24px;
+    border-radius: 0 0 8px 8px;
+    width: 350px;
+    height: 39vh;
+}
+
+.digital-wallet-content-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.digital-wallet-logo-name-container{
+    display: flex;
+    align-items: center;
+    width: 60%;
+}
+
+.digital-wallet-crypto-value-container{
+    width: 40%;
+}
+
+.digital-wallet-crypto-currenncy-image{
+    border-radius: 50%;
+    width: 25%;
+    margin-right: 5%;
+}
+
+.digital-wallet-crypto-name{
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.digital-wallet-crypto-value{
+    font-size: 1.25em;
+    font-weight: 500;
+}
+
+.digital-wallet-crypto-value-in-percentage1{
+    font-size: 1.125em;
+    border: 1px solid;
+    border-radius: 1em;
+    background-color: rgb(149, 241, 198);
+    color: green;
+    font-weight: 600;
+    padding: 1% 0%;
+    width: 65%;
+    margin-left: 25%;
+    display: flex;
+    align-items: center;
+    // text-align: center;
+    border-color: transparent;
+}
+
+.digital-wallet-crypto-value-in-percentage2{
+    font-size: 1.125em;
+    border: 1px solid;
+    border-radius: 1em;
+    background-color: rgb(241, 170, 149);
+    color: red;
+    font-weight: 600;
+    padding: 1% 0%;
+    width: 65%;
+    margin-left: 25%;
+    display: flex;
+    align-items: center;
+    border-color: transparent;
+
+}
+
+.digital-wallet-increase-decrease-icons{
+    font-size: 1.5em;
+}
+
+.digital-wallet-value-in-cryto{
+    font-size: 1.5em;
+}
